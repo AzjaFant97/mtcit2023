@@ -1,0 +1,1 @@
+Notes from terraform course. Curse is called: "More than Certified in Terraform" by Derek Morgan on Udemy.
